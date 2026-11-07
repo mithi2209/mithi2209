@@ -45,7 +45,7 @@ I enjoy exploring new technologies, improving my problem-solving skills, and tur
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&perline=6&size=30" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js"/>
+ <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&perline=6&size=30" alt="Frontend Skills"/>
 </p>
  
 ### Backend Development — Currently Learning
